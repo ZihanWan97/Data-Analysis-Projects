@@ -1,1 +1,6 @@
-
+# [Code](https://github.com/ZihanWan97/Data-Analysis-Projects/blob/main/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE%E6%B8%A0%E9%81%93%E6%95%88%E6%9E%9C%E8%AF%84%E4%BC%B0%E5%8F%8A%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE%E6%B8%A0%E9%81%93%E6%95%88%E6%9E%9C%E8%AF%84%E4%BC%B0%E5%8F%8A%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90_ZihanWan.ipynb)
+![image](https://user-images.githubusercontent.com/103607344/230866596-ffdab3c3-ff1f-4814-8614-627c5618f767.png)
+![image](https://user-images.githubusercontent.com/103607344/230866709-61d9f867-b841-49ab-80bb-7db0f74775d7.png)
+![image](https://user-images.githubusercontent.com/103607344/230866881-6f17543f-402f-46ed-861c-0b08d2ac46a7.png)
+![image](https://user-images.githubusercontent.com/103607344/230866923-4be4e9d3-52a9-4753-a2c5-913e518fd7df.png)
+![image](https://user-images.githubusercontent.com/103607344/230866976-719267f3-fb70-4526-8501-0d5ada5255c1.png)
